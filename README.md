@@ -6,4 +6,12 @@ postgresql
 
 docker
 
-@nestjs/config
+@nestjs/config dotenv
+
+@nestjs/jwt
+
+-----
+
+nest g resource
+
+db:migrate
