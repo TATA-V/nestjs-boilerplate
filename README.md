@@ -15,3 +15,14 @@ docker
 nest g resource
 
 db:migrate
+
+
+-----
+
+### env 파일 작성
+
+DB_HOST=localhost
+DB_PORT=
+DB_USER=
+DB_PASSWORD=
+DB_DATABASE=
