@@ -2,6 +2,8 @@
 
 @nestjs/typeorm typeorm
 
+class-validator class-transformer
+
 postgresql
 
 docker
